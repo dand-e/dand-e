@@ -6,23 +6,19 @@
 - 💞️ I’m looking to collaborate on pretty much everything where I can learn something and perhaps teaching something in the near future
 - 📫 How to reach me: 
     <br><br>
-    <center>
-    <div>
-    <a href="https://www.linkedin.com/in/dan-vi-790252218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    
+    <div styles="margin-left: 200px;">
+        <a href="https://www.linkedin.com/in/dan-vi-790252218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
-    </center>
-
- <div>
-  <a href="https://github.com/dand-e">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dand-e&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dand-e&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<center>
-  <div>
-   ![Snake animation](https://github.com/dand-e/dand-e/blob/main/github-contribution-grid-snake.svg)
-  </div>
-</center>
-<!---
+    <br><br>
+     <div>
+      <a href="https://github.com/dand-e">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dand-e&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dand-e&layout=compact&langs_count=7&theme=dark"/>
+    </div>
+    
+    <img src="https://github.com/dand-e/dand-e/blob/main/github-contribution-grid-snake.svg">
+ <!---
 dand-e/dand-e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
