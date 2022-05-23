@@ -7,10 +7,12 @@
 - 📫 How to reach me: 
     <br><br>
     
-    <div style="margin-left: 200px;">
+    <div style="margin-left:40%;margin-right:40%;">
         <a href="https://www.linkedin.com/in/dan-vi-790252218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
+    
     <br><br>
+     
      <div>
       <a href="https://github.com/dand-e">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dand-e&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
