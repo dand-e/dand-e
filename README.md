@@ -7,7 +7,7 @@
 - 📫 How to reach me: 
     <br><br>
     
-    <div styles="margin-left: 200px;">
+    <div style="margin-left: 200px;">
         <a href="https://www.linkedin.com/in/dan-vi-790252218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </div>
     <br><br>
